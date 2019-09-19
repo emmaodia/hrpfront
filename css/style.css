@@ -1240,13 +1240,12 @@ input[type=checkbox]:checked + label:before {
 }
 
 .property-price {
+    color: #fff;
     position: absolute;
-    top: 0;
-    right: 135px;
-    margin-top: 15px;
     font-weight: 600;
     font-size: 20px;
-    color: #79B791;
+    bottom: 15px;
+    left: 15px;
     z-index: 20;
 }
 
@@ -1306,7 +1305,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .property-content .facilities-list li {
-    width: 100%;
+    width: 33%;
     float: left;
     font-size: 13px;
     line-height: 29px;
@@ -5024,7 +5023,7 @@ strong {
 
 .edit-profile-photo img {
     width: 100%;
-    border-radius: 50%;
+    border-radius: 20%;
     box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, .4);
 }
 
