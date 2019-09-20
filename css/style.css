@@ -1111,8 +1111,7 @@ input[type=checkbox]:checked + label:before {
 .bootstrap-select .btn-default:active,
 .bootstrap-select .open > .dropdown-toggle.btn-default {
     color: #231F20;
-    background-color: transparent;
-!important;
+    background-color: transparent !important;
     border-color: #adadad;
 }
 
@@ -2123,19 +2122,19 @@ input[type=checkbox]:checked + label:before {
 }
 
 .cat-1-bg{
-    background-image: url("../img/popular-places-1.jpg");
+    background-image: url("../img/ikoyi.jpg");
 }
 
 .cat-2-bg{
-    background-image: url("../img/popular-places-2.jpg");
+    background-image: url("../img/room.jpeg");
 }
 
 .cat-3-bg{
-    background-image: url("../img/popular-places-4.jpg");
+    background-image: url("../img/flat.jpg");
 }
 
 .cat-4-bg{
-    background-image: url("../img/popular-places-3.jpg");
+    background-image: url("../img/apartment.jpg");
 }
 
 .category:hover .category_bg_box {
